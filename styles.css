@@ -54,7 +54,7 @@ header {
 }
 .carrito {
   padding: 10px;
-  border-radius: 50px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   cursor: pointer;
@@ -70,7 +70,7 @@ header {
 .carrito .count-products-cart {
   position: absolute;
   top: 3px;
-  right: -1;
+  right: -1px;
   font-size: 12px;
   background-color: #0ea5e9;
   color: #fff;
