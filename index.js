@@ -81,7 +81,7 @@ const updateButtonState = () => {
 const updateValueQuantity = () => {
   let quantity = parseInt(countProduct.textContent);
   let price = parseInt(priceProducts.textContent);
-  let total = `$${quantity * price}.00`;
+  let total = `${quantity * price}.000`;
   quantityProduct.textContent = quantity;
   totalValue.textContent = total;
   totalPrice.textContent = total;
