@@ -152,7 +152,7 @@ header {
 }
 .header-details-products h2 {
   font-size: 30px;
-  font-weight: 700px;
+  font-weight: 700;
 }
 .header-details-products .row {
   display: flex;
